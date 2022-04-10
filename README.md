@@ -59,3 +59,14 @@ I like learning new programming languages.
 ![](https://img.shields.io/badge/C-basics-333?style=flat&logoColor=white&logo=C)
 ![](https://img.shields.io/badge/C++-basics-333?style=flat&logoColor=white&logo=cplusplus)
 ![](https://img.shields.io/badge/JavaScript-but_I_don't_like_it-333?style=flat&logoColor=white&logo=javascript)
+
+---
+
+You can find me on various coding problem sites:
+
+[CodinGame](https://www.codingame.com/profile/8931375f2caabaa3c46fc9401a856edf4653983) |
+[CodeWars](https://www.codewars.com/users/Andriamanitra) |
+[Binarysearch](https://binarysearch.com/@/Andriamanitra) |
+[Exercism](https://exercism.org/profiles/Andriamanitra) |
+[Leetcode](https://leetcode.com/Andriamanitra/) |
+[code.golf](https://code.golf/golfers/Andriamanitra)
