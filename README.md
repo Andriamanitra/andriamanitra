@@ -14,7 +14,9 @@ I like learning new programming languages.
 <a href="https://python.org/">
   <img alt="Python" src="https://img.shields.io/badge/-Python-222?style=flat&logo=python&logoColor=white" />
 </a>
-
+<a href="https://svelte.dev/">
+  <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-222?style=flat&logo=svelte&logoColor=white" />
+</a>
 
 **Currently learning**<br>
 <a href="https://dlang.org/">
