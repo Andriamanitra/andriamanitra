@@ -18,7 +18,7 @@ I like learning new programming languages.
 
 **Currently learning**<br>
 <a href="https://dlang.org/">
-    <img alt="D-lang" src="https://img.shields.io/badge/-D-333?style=flat&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAbCAQAAACkGQXlAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAJcEhZcwAALiMAAC4jAXilP3YAAAAHdElNRQflCREOOBRoMzeWAAACWUlEQVRIx5WVO2gUURSGv9md3WhMFI0RU1hYiI0PUAvRwqCFIhIQQUQhtXXA0sgWGiy0MoUImoAWIqI2gi+CGIz4KKL4QlAwJhGziSzZmH1k57fIndmd3ZnZzbnFzJx77jfnNWcs0bhYgVoBrGELM3zCsQR7OEIswK5Alhl+84txZnDK0BonOuhnPxl6GUQxDSpK8kprVAM6qQ4Rsk4Y22GttLFIRMaZpI02tnGKjwxwkzQJdrCPTSSZ5BUvmGaMKdqBb+RQXLfUqDh6qqO6qukK/4d1SHF16ZpS2iD8QEcZpc2a1l/NqlgDzdVo/uh4OXzbF16BHkaIm+zbLGcdW+lkF62eTVNNUto5z3u+mJL5PJxXZ0DKW3RAd1WITMZZmdpXt0sMrIoFQJZndHOObETpdpMkEFjTygY6x0X6WAg1bHWTVwdYAXXo53mo0ST5hoEm2ZDhTsi2wxNKSwIa+cBsoH6I++6tH2iZlgnzcc4NzCcj9JB2R4ddtRkKFEBzVRfmGeMeV/hZVtlB50JlMy3e/Tv6meAzY4tnrBBglH/L6KoYiQ+54UvHUoDG7WMc9FQZHlejGgR6OTjMBZo99SPeBk9wOwJRlrV0c4b13vM4l8gFO2DjUKx4ThAzL7GIk2QVG9lLFzsr6v+PFK/DIrLB/VsACXo5bSKJ00QrbbSzwnciS2qxHMG/LGTpesMTW/qubsUV0V0Ntg0AGR5wmdEI7wyw/vec5wdD3GaEQjQObMRLtpcz4F0XgCLzTPGVN4wy4e5F4cAS2KyusRIlRIkiBXcw1YcB/AcxP7Y6h48eeAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMS0wOS0xN1QxNDo1NTo1OSswMDowMKgYC4gAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjEtMDktMTdUMTQ6NTU6NTkrMDA6MDDZRbM0AAAAAElFTkSuQmCC" />
+    <img alt="D-lang" src="https://img.shields.io/badge/-D-333?style=flat&logoColor=white&logo=d" />
 </a>
 <a href="https://fsharp.org/">
     <img alt="Fsharp" src="https://img.shields.io/badge/-F%23-333?style=flat&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAABG1JREFUeF7tm0tPU0EUx2lpYFHig7gk0T1GaYxsFb8A3XRlgFtNDct+AAK6RDZdYqK2tF+g/QC+ViRNfK7F4AdotQ0QKITrOaRDxvuemTNzC+lNmnLnzsw5/98986YjI8NrSGBIIA4C7Xb7Ktq1bfvsO64rGYfhvb29pXQ6XUTbJycnxV6vtxSHH2jTOAAUn0wmK7zg09PTSlwQjALwEs9AxAXBGIAg8TyEWq32ymRzMAIgingmOpfLPdvc3HxtCoJ2ACLimWjLsp5Cn/DWBAStAGTEc80hDxDKuiFoA6AinoNg6YagBQCFeFMQyAFQijcBgRSADvE8hO3t7ebk5OQVyn6BDIBO8UxwJpO5X6/X38M92fqBBIAJ8QzC7OzsvaOjow9UiyhlALLiYRH0DUUlEomzb5ELxGdgdPhIAUEJgKx4mPdbsBpsoOhUKtWAxZElAgDzgvgZCggJUcMsv4r4iYmJLaddXA3igsiZHnaPETQ2NvYQvjtheb2eSwGgFs8ciwOCcBOgEs92hPi3Am9yS7Y57Ozs/FxeXr7t9ZaD0oQAUInHetiOkNM5WQhTU1M3isXip8XFxTvOOoPuIzcBSvG4IzQ6Ovp8fHz8hZ9zCs3hD0Ccgz7hu1/dfHqkCKAWH8Ux2UiA0eF6f3S4G8VOKIA4xDPHFSBciwohEECc4k1B8AUwCOJNQPAEMEjiKSC0Wq0v6+vrj736BBeAQRSvCgFmnsl8Pl9bXV1dcEL4bxg0KT5sGHQ6yt8rDJE22M3D+uN8Kn4eATB83HSe2AQ5wZ5BuQo/t5etJ4otRyRURMpgXvAtAavQCvrIyp4DgInDb1yliVYK5SyMHFZOth4Ru/0IEPYVbeBUG310AcAEfJMyEDByeAiy9USBoBL+EPoWzi14O65OUNZ5ExBkxXe7XXtjY2OJb/ueEcASBxGCrHgI97/lcnlhZWWl5hVhgYshnaOCyCigIr6/WeK7MHI1AZ7SIESCTvGoNRAAZogTgm7xkQDEBcGE+MgATENQEI+bIbhB6tvmUQt/hTYBPjNlc9jf3y85ncF7WfG7u7vtQqEgJB7tCQHAAlQQ4IzPtY0tK77T6fwqlUoPqtXqDy+oQWmBw2BQQaohktmQFQ/hbv5cgDlNBSEu8ahDOgJUIcCKLIvHY7A6m4dPPSjavJ6pvnlWp3Af4HRGtk+AefkM1oVnfM46w+6pxKMdZQBYiSyEMKFez0H81/5Q5+pEvfKHpZEAMAWh2Wx+hsOUOYBAIh79JgOgGwKc/b3LZrOPwA6ZePQ5FRYios+xOcDogDsvFdGyfvmxrunp6bzfc5V00ghgjlD2CSge2rwW8eivFgBYMQUE3eK1AlCFYEK8dgCyEEB8WWfYo1/s0tYEeCMizQF+L/AGxD/hy1+av3HtcHBwYOMH/tdvDYUdHx+vHR4e2vhpNBovL41YPyEMghMALoj8yuhMJ58HhDnL5gmwK3yL5YU27zqwCKvnwj8flN8NXniQQwFDAkMCSgT+AWxXZHDs8F9mAAAAAElFTkSuQmCC" />
@@ -28,6 +28,9 @@ I like learning new programming languages.
 </a>
 <a href="https://racket-lang.org/">
     <img alt="Racket" src="https://img.shields.io/badge/-Racket-333?style=flat&logoColor=white&logo=Racket" />
+</a>
+<a href="https://rust-lang.org/">
+    <img alt="Rust" src="https://img.shields.io/badge/-Rust-333?style=flat&logoColor=white&logo=Rust" />
 </a>
 
 
@@ -51,11 +54,8 @@ I like learning new programming languages.
 <a href="https://nim-lang.org/">
     <img alt="Nim" src="https://img.shields.io/badge/-Nim-404040?style=flat&logoColor=white&logo=Nim" />
 </a>
-<a href="https://rust-lang.org/">
-    <img alt="Rust" src="https://img.shields.io/badge/-Rust-404040?style=flat&logoColor=white&logo=Rust" />
-</a>
 <a href="https://ziglang.org/">
-    <img alt="Zig" src="https://img.shields.io/badge/-Zig-333?style=flat&logoColor=white&logo=Zig" />
+    <img alt="Zig" src="https://img.shields.io/badge/-Zig-404040?style=flat&logoColor=white&logo=Zig" />
 </a>
 
 
