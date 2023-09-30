@@ -1,5 +1,6 @@
-I like learning new programming languages.
+[![trophy](https://github-profile-trophy.vercel.app/?username=andriamanitra&row=1&column=5&theme=oldie&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+I like learning new programming languages.
 
 **Favorites**<br>
 <a href="https://julialang.org/">
@@ -19,22 +20,24 @@ I like learning new programming languages.
 </a>
 
 **Currently learning**<br>
-<a href="https://dlang.org/">
-    <img alt="D-lang" src="https://img.shields.io/badge/-D-333?style=flat&logoColor=white&logo=d" />
-</a>
-<a href="https://fsharp.org/">
-    <img alt="Fsharp" src="https://img.shields.io/badge/-F%23-333?style=flat&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAABG1JREFUeF7tm0tPU0EUx2lpYFHig7gk0T1GaYxsFb8A3XRlgFtNDct+AAK6RDZdYqK2tF+g/QC+ViRNfK7F4AdotQ0QKITrOaRDxvuemTNzC+lNmnLnzsw5/98986YjI8NrSGBIIA4C7Xb7Ktq1bfvsO64rGYfhvb29pXQ6XUTbJycnxV6vtxSHH2jTOAAUn0wmK7zg09PTSlwQjALwEs9AxAXBGIAg8TyEWq32ymRzMAIgingmOpfLPdvc3HxtCoJ2ACLimWjLsp5Cn/DWBAStAGTEc80hDxDKuiFoA6AinoNg6YagBQCFeFMQyAFQijcBgRSADvE8hO3t7ebk5OQVyn6BDIBO8UxwJpO5X6/X38M92fqBBIAJ8QzC7OzsvaOjow9UiyhlALLiYRH0DUUlEomzb5ELxGdgdPhIAUEJgKx4mPdbsBpsoOhUKtWAxZElAgDzgvgZCggJUcMsv4r4iYmJLaddXA3igsiZHnaPETQ2NvYQvjtheb2eSwGgFs8ciwOCcBOgEs92hPi3Am9yS7Y57Ozs/FxeXr7t9ZaD0oQAUInHetiOkNM5WQhTU1M3isXip8XFxTvOOoPuIzcBSvG4IzQ6Ovp8fHz8hZ9zCs3hD0Ccgz7hu1/dfHqkCKAWH8Ux2UiA0eF6f3S4G8VOKIA4xDPHFSBciwohEECc4k1B8AUwCOJNQPAEMEjiKSC0Wq0v6+vrj736BBeAQRSvCgFmnsl8Pl9bXV1dcEL4bxg0KT5sGHQ6yt8rDJE22M3D+uN8Kn4eATB83HSe2AQ5wZ5BuQo/t5etJ4otRyRURMpgXvAtAavQCvrIyp4DgInDb1yliVYK5SyMHFZOth4Ru/0IEPYVbeBUG310AcAEfJMyEDByeAiy9USBoBL+EPoWzi14O65OUNZ5ExBkxXe7XXtjY2OJb/ueEcASBxGCrHgI97/lcnlhZWWl5hVhgYshnaOCyCigIr6/WeK7MHI1AZ7SIESCTvGoNRAAZogTgm7xkQDEBcGE+MgATENQEI+bIbhB6tvmUQt/hTYBPjNlc9jf3y85ncF7WfG7u7vtQqEgJB7tCQHAAlQQ4IzPtY0tK77T6fwqlUoPqtXqDy+oQWmBw2BQQaohktmQFQ/hbv5cgDlNBSEu8ahDOgJUIcCKLIvHY7A6m4dPPSjavJ6pvnlWp3Af4HRGtk+AefkM1oVnfM46w+6pxKMdZQBYiSyEMKFez0H81/5Q5+pEvfKHpZEAMAWh2Wx+hsOUOYBAIh79JgOgGwKc/b3LZrOPwA6ZePQ5FRYios+xOcDogDsvFdGyfvmxrunp6bzfc5V00ghgjlD2CSge2rwW8eivFgBYMQUE3eK1AlCFYEK8dgCyEEB8WWfYo1/s0tYEeCMizQF+L/AGxD/hy1+av3HtcHBwYOMH/tdvDYUdHx+vHR4e2vhpNBovL41YPyEMghMALoj8yuhMJ58HhDnL5gmwK3yL5YU27zqwCKvnwj8flN8NXniQQwFDAkMCSgT+AWxXZHDs8F9mAAAAAElFTkSuQmCC" />
-</a>
 <a href="https://haskell.org/">
     <img alt="Haskell" src="https://img.shields.io/badge/-Haskell-333?style=flat&logoColor=white&logo=Haskell" />
-</a>
-<a href="https://racket-lang.org/">
-    <img alt="Racket" src="https://img.shields.io/badge/-Racket-333?style=flat&logoColor=white&logo=Racket" />
 </a>
 <a href="https://rust-lang.org/">
     <img alt="Rust" src="https://img.shields.io/badge/-Rust-333?style=flat&logoColor=white&logo=Rust" />
 </a>
-
+<a href="https://lua.org/">
+    <img alt="Lua" src="https://img.shields.io/badge/-Lua-333?style=flat&logoColor=white&logo=lua" />
+</a>
+<a href="https://riscv.org/">
+    <img alt="RISC-V" src="https://img.shields.io/badge/-RISC--V-333?style=flat&logoColor=white&logo=riscv" />
+</a>
+<a href="https://dlang.org/">
+    <img alt="D-lang" src="https://img.shields.io/badge/-D-333?style=flat&logoColor=white&logo=d" />
+</a>
+<a href="https://ziglang.org/">
+    <img alt="Zig" src="https://img.shields.io/badge/-Zig-333?style=flat&logoColor=white&logo=Zig" />
+</a>
 
 
 **I would like to learn**<br>
@@ -50,14 +53,17 @@ I like learning new programming languages.
 <a href="https://fortran-lang.org/">
     <img alt="Fortran" src="https://img.shields.io/badge/-Fortran-404040?style=flat&logoColor=white&logo=Fortran" />
 </a>
+<a href="https://fsharp.org/">
+    <img alt="Fsharp" src="https://img.shields.io/badge/-F%23-404040?style=flat&logoColor=white&logo=fsharp" />
+</a>
 <a href="https://kotlinlang.org">
     <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-404040?style=flat&logoColor=white&logo=Kotlin" />
 </a>
 <a href="https://nim-lang.org/">
     <img alt="Nim" src="https://img.shields.io/badge/-Nim-404040?style=flat&logoColor=white&logo=Nim" />
 </a>
-<a href="https://ziglang.org/">
-    <img alt="Zig" src="https://img.shields.io/badge/-Zig-404040?style=flat&logoColor=white&logo=Zig" />
+<a href="https://racket-lang.org/">
+    <img alt="Racket" src="https://img.shields.io/badge/-Racket-404040?style=flat&logoColor=white&logo=Racket" />
 </a>
 
 
