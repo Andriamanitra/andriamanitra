@@ -1,5 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=andriamanitra&row=1&column=5&theme=oldie&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 I like learning new programming languages.
 
 **Favorites**<br>
